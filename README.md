@@ -30,10 +30,9 @@
 
 - <p dir="auto"><g-emoji class="g-emoji" alias="heartbeat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f493.png">💓</g-emoji> I love designing websites and coding.</p>
 
-<p align= "center"><img src="https://komarev.com/ghpvc/?username=AkshataGanbote&label=Profile%20views&color=0e75b6&style=flat" alt="AkshataGanbote" /></p>
+</br>
 
-
-<h3 align="left">Technology Stack:</h3>
+<h3 align="center">Technology Stack:</h3></br>
 <div>
 
 <p align="left">
@@ -52,29 +51,17 @@
   <img src="https://camo.githubusercontent.com/9df883a0044327811502d49027e8bdcce09f89266caef16cbaeaf7cf96659977/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f646570656e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d636f646570656e266c6f676f436f6c6f723d7768697465" alt="codepen" />
   <img src="https://camo.githubusercontent.com/b0803f299d89e7a70fcc3758536f4a2c35d92af1a38bcf40a207ad2666610f83/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7265706c69742d3636373838313f7374796c653d666f722d7468652d6261646765266c6f676f3d7265706c6974266c6f676f436f6c6f723d7768697465" alt="replit" />
 </p>
-<!-- <img src="" alt="" /> -->
-<!-- <h3><i>Tools | Use</i></h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
-  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" />
-  <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-</p> -->
 
 </div>
 
   
 <br>
+<p align="center"><img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshataGanbote&show_icons=true&locale=en&theme=tokyonight" alt="AkshataGanbote" /></p>
 
-<p align="center"><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshataGanbote&show_icons=true&locale=en&theme=tokyonight" alt="AkshataGanbote" /></p>
 
+<p align="center">&nbsp;<img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=AkshataGanbote&show_icons=true&locale=en&theme=tokyonight" alt="AkshataGanbote" /></p>
 
-<p align="center">&nbsp;<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=AkshataGanbote&show_icons=true&locale=en&theme=tokyonight" alt="AkshataGanbote" /></p>
-
-<p align="center"><img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshataGanbote&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="AkshataGanbote" />
+<p align="center"><img align="center" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshataGanbote&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="AkshataGanbote" />
 </p>
 
 
