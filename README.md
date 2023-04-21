@@ -17,13 +17,13 @@
 
 <img align="right" height="250px" alt="GIF" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" /><p dir="auto"><g-emoji class="g-emoji" alias="raising_hand_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2642.png"></p>
 
-- 🙋 All about me is at <strong><a href="https://akshata-ganbote.netlify.app/" rel="nofollow">My Portfolio</a></strong>
+- 🙋 All about me is at <strong><a href="https://AkshataGanbote.github.io/#" rel="nofollow">My Portfolio</a></strong>
 
 - 🌱 I’m currently learning <code>MERN Stack</code> from Masai School
 
 - <p dir="auto"><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate and make any tech community</p> 
 
-- 💬 Ask me about **React, Redux, React-Redux, Chakra UI, Data Structures and Algorithms, HTML, CSS, Javascript, NPM**
+- 💬 Ask me about **React, Redux, React-Redux, HTML, CSS, Javascript, Chakra UI, Data Structures and Algorithms, NPM**
 
 - <p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">🥅 </g-emoji> Life Hack: Learning new things and contribute more</p>
  
@@ -76,6 +76,6 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/akshata-ganbote-7a3847247/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a title="akshataganbote61843@gmail.com" href="mailto:akshataganbote61843@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
-<a href="https://akshata-ganbote.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
+<a href="toEnter" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
 </p>
 
