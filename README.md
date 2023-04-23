@@ -59,7 +59,7 @@
 <p align="center"><img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshataGanbote&show_icons=true&locale=en&theme=tokyonight" alt="AkshataGanbote" /></p>
 
 
-<p align="center">&nbsp;<img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=AkshataGanbote&show_icons=true&locale=en&theme=tokyonight" alt="AkshataGanbote" /></p>
+<p align="center">&nbsp;<img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=AkshataGanbote&show_icons=true&count_private=true&locale=en&theme=tokyonight" alt="AkshataGanbote" /></p>
 
 <p align="center"><img align="center" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshataGanbote&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="AkshataGanbote" />
 </p>
