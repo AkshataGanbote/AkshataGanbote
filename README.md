@@ -3,7 +3,7 @@
 # <h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I am Akshata Ganbote <img src="https://camo.githubusercontent.com/d77420cfd4d5a0289af772acf207010f72dd713372ca5a46abd6c650e3791c1c/68747470733a2f2f696d6775722e636f6d2f5546616531486c2e676966" width="40px"></h1>
 <h3 align="center">A passionate Web Developer from India.</h3>
 
-#### An aspiring MERN stack Web developer, currently looking for oppurtunities to expand my skillset and work in a colloborative environment. Recent post-graduate with Masters degree in Commerce and a passion for web development.
+#### An aspiring MERN stack web developer, currently looking for opportunities to expand my skill set and work in a collaborative environment. Recent post-graduate with a Masters degree in Commerce and having a passion for web development.
 
 
 
