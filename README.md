@@ -24,7 +24,7 @@
 
 - <p dir="auto"><g-emoji class="g-emoji" alias="heartbeat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f493.png">💓</g-emoji> I love designing websites and coding.</p>
 
-- <p dir="auto">📝 Checkout my <strong><a href="https://drive.google.com/file/d/1iUpCHrJz6rg8KOB6SWWrzsJrRDpqK3Gx/view?usp=drive_link" target="_blank" rel="nofollow">Resume</a></strong>
+- <p dir="auto">📝 Checkout my <strong><a href="https://drive.google.com/file/d/1ZRfe2QFGKBi0mLD6uyKLfprPzmwOV8z2/view?usp=drive_link" target="_blank" rel="nofollow">Resume</a></strong>
 
 </br>
 
