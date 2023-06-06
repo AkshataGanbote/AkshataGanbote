@@ -3,7 +3,7 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Akshata Ganbote <img src="https://camo.githubusercontent.com/d77420cfd4d5a0289af772acf207010f72dd713372ca5a46abd6c650e3791c1c/68747470733a2f2f696d6775722e636f6d2f5546616531486c2e676966" width="40px"></h1>
 <h3 align="center">A passionate Web Developer from India.</h3>
 
-#### An aspiring MERN stack Web developer, currently looking for oppurtunities to expand my skillset and work in a colloborative environment. Recent graduate with Masters degree in Commerce and a passion for web development.
+#### A passionate and competent full stack web developer with understanding of the development life-cycle as part of designing & deploying websites via HTML, CSS, JavaScript, React, Redux, Typescript, etc. Looking forward to working in an organization that offers opportunities to enhance my skills & knowledge that leads to my overall growth and development alongside organization. An aspiring MERN stack Web developer, currently looking for oppurtunities to expand my skillset and work in a colloborative environment. 
 
 
 
@@ -24,7 +24,7 @@
 
 - <p dir="auto"><g-emoji class="g-emoji" alias="heartbeat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f493.png">💓</g-emoji> I love designing websites and coding.</p>
 
-- <p dir="auto">📝 Checkout my <strong><a href="https://drive.google.com/file/d/1ZRfe2QFGKBi0mLD6uyKLfprPzmwOV8z2/view?usp=drive_link" target="_blank" rel="nofollow">Resume</a></strong>
+- <p dir="auto">📝 Checkout my <strong><a href="https://drive.google.com/file/d/1GsfPL35hAaeAhwR382XPASxLeZDfsuky/view?usp=sharing" target="_blank" rel="nofollow">Resume</a></strong>
 
 </br>
 
