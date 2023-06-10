@@ -23,7 +23,7 @@
 
 - <p dir="auto"><g-emoji class="g-emoji" alias="heartbeat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f493.png">💓</g-emoji> I love designing websites and coding.</p>
 
-- <p dir="auto">📝 Checkout my <strong><a href="https://drive.google.com/file/d/1GsfPL35hAaeAhwR382XPASxLeZDfsuky/view?usp=sharing" target="_blank" rel="nofollow">Resume</a></strong>
+- <p dir="auto">📝 Checkout my <strong><a href="https://drive.google.com/file/d/1xqwMOMdyOn86WnhYchz6ohw03d9qwxtU/view?usp=sharing" target="_blank" rel="nofollow">Resume</a></strong>
 
 </br>
 
