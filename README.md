@@ -11,19 +11,16 @@
 
 <img align="right" height="250px" alt="GIF" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" /><p dir="auto"><g-emoji class="g-emoji" alias="raising_hand_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2642.png"></p>
 
-- 🙋 All about me is at <strong><a href="https://akshata-ganbote.netlify.app/" target="_blank" rel="nofollow">My Portfolio</a></strong>
+- 🙋 All about me is in <strong><a href="https://akshata-ganbote.netlify.app/" target="_blank" rel="nofollow">My Portfolio</a></strong>
 
 
 - <p dir="auto"><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👩‍💻</g-emoji> Open to work.</p> 
 
 - <p dir="auto">🔭 I’m currently working on <code>Something Intresting </code>
-
-- <p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">🥅 </g-emoji> Life Hack: Learning new things and contribute more</p>
  
-
 - <p dir="auto"><g-emoji class="g-emoji" alias="heartbeat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f493.png">💓</g-emoji> I love designing websites and coding.</p>
 
-- <p dir="auto">📝 Checkout my <strong><a href="https://drive.google.com/file/d/1xqwMOMdyOn86WnhYchz6ohw03d9qwxtU/view?usp=sharing" target="_blank" rel="nofollow">Resume</a></strong>
+- <p dir="auto">📝 Check out my <strong><a href="https://drive.google.com/file/d/1xqwMOMdyOn86WnhYchz6ohw03d9qwxtU/view?usp=sharing" target="_blank" rel="nofollow">Resume</a></strong>
 
 </br>
 
