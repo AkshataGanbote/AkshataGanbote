@@ -24,7 +24,7 @@
 
 </br>
 
-<h3 align="center">Technology Stack:</h3></br>
+<h2 align="center">Technology Stack:</h3></br>
 <div>
 
 <p align="left">
