@@ -55,7 +55,6 @@ A passionate and competent full stack web developer with understanding of the de
 </div>
 
 <br>
-<p align="center"><img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshataGanbote&show_icons=true&locale=en&theme=tokyonight" alt="AkshataGanbote" /></p>
 
 <p align="center"><img align="center" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshataGanbote&theme=dark&hide_border=false&count_private=true&layout=compact" alt="AkshataGanbote" />
 </p>
