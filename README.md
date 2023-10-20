@@ -20,7 +20,7 @@ A passionate and competent full stack web developer with understanding of the de
  
 - <p dir="auto"><g-emoji class="g-emoji" alias="heartbeat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f493.png">💓</g-emoji> I love designing websites and coding.</p>
 
-- <p dir="auto">📝 Check out my <strong><a href="https://drive.google.com/file/d/1sRBj59HKriqCd0G54a9KGBY2yTlEfdlv/view?usp=sharing" target="_blank" rel="nofollow">Resume</a></strong>
+- <p dir="auto">📝 Check out my <strong><a href="https://drive.google.com/file/d/1pr6BbwYj5p6gK9EdCXNA--SfjZXtgFCw/view?usp=sharing" target="_blank" rel="nofollow">Resume</a></strong>
 
 </br>
 
